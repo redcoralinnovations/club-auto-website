@@ -31,7 +31,7 @@ export function CallToActionSection() {
                     Explore features
                   </Button>
                 </a>
-                <a href="#modules" className="w-full sm:w-auto">
+                <a href="#demo" className="w-full sm:w-auto">
                   <Button variant="primary" className="w-full sm:w-auto">
                     Request a demo
                   </Button>

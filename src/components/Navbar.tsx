@@ -84,7 +84,7 @@ export function Navbar() {
             <a href="#features">
               <Button variant="secondary">See it in action</Button>
             </a>
-            <a href="#modules">
+            <a href="#demo">
               <Button variant="primary">Get a demo</Button>
             </a>
           </div>
@@ -156,7 +156,7 @@ export function Navbar() {
                     See it
                   </Button>
                 </a>
-                <a href="#modules" onClick={() => setOpen(false)}>
+                <a href="#demo" onClick={() => setOpen(false)}>
                   <Button variant="primary" className="w-full">
                     Demo
                   </Button>

@@ -1,6 +1,7 @@
 import { Navbar } from './components/Navbar'
 import { Footer } from './components/Footer'
 import { CallToActionSection } from './sections/CallToActionSection'
+import { DemoSection } from './sections/DemoSection'
 import { FeaturesSection } from './sections/FeaturesSection'
 import { HeroSection } from './sections/HeroSection'
 import { ScreenshotsSection } from './sections/ScreenshotsSection'
@@ -17,6 +18,7 @@ function App() {
         <ScreenshotsSection />
         <FeaturesSection />
         <CallToActionSection />
+        <DemoSection />
       </main>
 
       <Footer />

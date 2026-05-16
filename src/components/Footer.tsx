@@ -2,8 +2,10 @@ import { brand } from '../data/brand'
 import { Container } from './Container'
 
 const footerLinks = [
+  { label: 'Tour', href: '#screenshots' },
   { label: 'Features', href: '#features' },
   { label: 'Modules', href: '#modules' },
+  { label: 'Demo', href: '#demo' },
 ]
 
 export function Footer() {

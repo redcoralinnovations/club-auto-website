@@ -85,7 +85,7 @@ export function HeroSection() {
                     <div className="h-2.5 w-2.5 rounded-full bg-white/20" />
                     <div className="h-2.5 w-2.5 rounded-full bg-white/10" />
                   </div>
-                  <span className="text-xs font-semibold text-white/60">Dashboard preview</span>
+                  <span className="text-xs font-semibold text-white/60">In-app preview</span>
                 </div>
 
                 <div className="mt-6 grid gap-4">

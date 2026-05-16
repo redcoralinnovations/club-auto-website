@@ -5,8 +5,10 @@ import { cx } from '../utils/cx'
 import { brand } from '../data/brand'
 
 const navItems = [
+  { label: 'Tour', href: '#screenshots' },
   { label: 'Features', href: '#features' },
   { label: 'Modules', href: '#modules' },
+  { label: 'Demo', href: '#demo' },
 ]
 
 function Wordmark() {
